@@ -1,9 +1,9 @@
 body {
     background-image: url(524294-brazil-rio-de.jpg);
-    background-position: center;
+    background-position: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 100% 100%;
     background-color: #000039;
     background-blend-mode: lighten;
     margin: 0;
@@ -26,7 +26,7 @@ body {
     border-bottom-left-radius: 20px;
     border-top-right-radius: 20px;
     padding: 50px 60px;
-    background-color: #fff;
+    background-color: #ffffff;
         
 }
 
